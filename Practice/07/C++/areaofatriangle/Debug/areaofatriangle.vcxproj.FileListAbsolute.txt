@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Programming\Practice\07\C++\areaofatriangle\Debug\areaofatriangle.exe
+C:\Users\HP\Desktop\Programming\Practice\07\C++\areaofatriangle\Debug\areaofatriangle.pdb

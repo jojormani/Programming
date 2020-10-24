@@ -1,0 +1,8 @@
+print('Введите первое число')
+variable1 = int(input())
+print("Введите  число")
+variable2 = int(input())
+print("Сумма равна ", variable1 + variable2)
+print("Разность равна ", variable1 - variable2)
+print("Произведение ", variable1 * variable2)
+print("Частое ", variable1 / variable2)

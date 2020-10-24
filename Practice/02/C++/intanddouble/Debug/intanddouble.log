@@ -1,0 +1,3 @@
+﻿  intanddouble.cpp
+C:\Users\HP\Desktop\Programming\Practice\02\C++\intanddouble\intanddouble.cpp(7,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  intanddouble.vcxproj -> C:\Users\HP\Desktop\Programming\Practice\02\C++\intanddouble\Debug\intanddouble.exe

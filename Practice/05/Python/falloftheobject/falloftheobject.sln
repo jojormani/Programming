@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "falloftheobject", "falloftheobject.pyproj", "{863B7A7D-FC74-4670-A093-DB6FA36D8EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863B7A7D-FC74-4670-A093-DB6FA36D8EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863B7A7D-FC74-4670-A093-DB6FA36D8EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD78AB4-AA36-4BA4-9C2F-3A35442C1B2F}
+	EndGlobalSection
+EndGlobal
