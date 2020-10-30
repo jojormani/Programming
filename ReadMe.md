@@ -6,7 +6,7 @@
 
 | Практические | Лабораторные |
 | ------------ | ------------ |
-| Практическая 1 - [[C++]](./Practice/01/С++/simpleoutput/) [[Python]](./Practice/01/Python/) | [Лабораторная 1](./Lab/01/ReadMe.md) |
+| Практическая 1 - [[C++]](https://github.com/RedLips-I/Programming/blob/main/Practice/01/C%2B%2B/Project1/Source.cpp) [[Python]](./Practice/01/Python/) | [Лабораторная 1](./Lab/01/ReadMe.md) |
 | Практическая 2 - [[C++]](./Practice/02/C++/) [[Python]](./Practice/02/Python/) | [Лабораторная 2](./Lab/02/ReadMe.md) |
 | Практическая 3 - [[C++]](./Practice/03/C++/) [[Python]](./Practice/03/Python/) | [Лабораторная 3](./Lab/03/ReadMe.md) |
 | Практическая 4 - [[C++]](./Practice/04/C++/) [[Python]](./Practice/04/Python/) | [Лабораторная 4](./Lab/04/ReadMe.md) |
