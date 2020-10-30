@@ -8,6 +8,9 @@ int main() {
 	cout << "Введите степень" << endl;
 	cin >> degree; 
 	result = number;
+	if ((degree == 0) && (number == 0)) {
+		cout << "1" << endl;
+	}
 	if (degree == 1) {
 		cout << result;
 	}

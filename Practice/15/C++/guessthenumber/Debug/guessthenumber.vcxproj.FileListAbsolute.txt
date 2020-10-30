@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Programming\Practice\15\C++\guessthenumber\Debug\guessthenumber.exe
+C:\Users\HP\Desktop\Programming\Practice\15\C++\guessthenumber\Debug\guessthenumber.pdb
