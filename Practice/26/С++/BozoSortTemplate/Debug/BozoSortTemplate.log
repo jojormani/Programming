@@ -1,0 +1,10 @@
+﻿  BozoSortTemplate.cpp
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(68,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(171,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(176,77): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(176,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(193,77): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(193,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(200,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\BozoSortTemplate.cpp(207,22): warning C4018: <: несоответствие типов со знаком и без знака
+  BozoSortTemplate.vcxproj -> C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\Debug\BozoSortTemplate.exe
