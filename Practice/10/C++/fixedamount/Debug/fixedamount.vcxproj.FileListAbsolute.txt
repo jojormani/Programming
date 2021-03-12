@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\10\C++\fixedamount\Debug\fixedamount.exe
-C:\Users\HP\Desktop\Programming\Practice\10\C++\fixedamount\Debug\fixedamount.pdb

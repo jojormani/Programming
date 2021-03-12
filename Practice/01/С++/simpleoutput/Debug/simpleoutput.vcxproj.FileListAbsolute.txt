@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\01\С++\simpleoutput\Debug\simpleoutput.exe
-C:\Users\HP\Desktop\Programming\Practice\01\С++\simpleoutput\Debug\simpleoutput.pdb

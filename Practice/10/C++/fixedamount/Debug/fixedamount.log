@@ -1,4 +1,0 @@
-﻿  fixedamount.cpp
-C:\Users\HP\Desktop\Programming\Practice\10\C++\fixedamount\fixedamount.cpp(6,25): warning C4101: x1: неиспользованная локальная переменная
-C:\Users\HP\Desktop\Programming\Practice\10\C++\fixedamount\fixedamount.cpp(6,29): warning C4101: x2: неиспользованная локальная переменная
-  fixedamount.vcxproj -> C:\Users\HP\Desktop\Programming\Practice\10\C++\fixedamount\Debug\fixedamount.exe

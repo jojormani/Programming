@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\03\C++\arithmetic\Debug\arithmetic.exe
-C:\Users\HP\Desktop\Programming\Practice\03\C++\arithmetic\Debug\arithmetic.pdb

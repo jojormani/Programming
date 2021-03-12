@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\02\C++\intanddouble\Debug\intanddouble.exe
-C:\Users\HP\Desktop\Programming\Practice\02\C++\intanddouble\Debug\intanddouble.pdb

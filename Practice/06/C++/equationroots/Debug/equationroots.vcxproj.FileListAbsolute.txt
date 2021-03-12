@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\06\C++\equationroots\Debug\equationroots.exe
-C:\Users\HP\Desktop\Programming\Practice\06\C++\equationroots\Debug\equationroots.pdb

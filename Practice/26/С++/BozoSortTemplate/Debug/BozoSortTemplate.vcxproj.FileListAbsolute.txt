@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\Debug\BozoSortTemplate.exe
-C:\Users\HP\Desktop\Programming\Practice\26\С++\BozoSortTemplate\Debug\BozoSortTemplate.pdb

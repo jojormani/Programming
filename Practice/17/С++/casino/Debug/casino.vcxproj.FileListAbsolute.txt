@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\17\С++\casino\Debug\casino.exe
-C:\Users\HP\Desktop\Programming\Practice\17\С++\casino\Debug\casino.pdb

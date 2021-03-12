@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\Programming\Practice\05\C++\falloftheobject\Debug\falloftheobject.exe
-C:\Users\HP\Desktop\Programming\Practice\05\C++\falloftheobject\Debug\falloftheobject.pdb
