@@ -41,25 +41,25 @@
 1.Cкачиваем с официального сайта https://www.qt.io последнюю стабильную версию фреймфорка Qt
 В процессе установки ввыберите компоненты Qt для сборки при помощи MinGW.
 
-![Рис. 1.1](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/1.1.jpg?raw=true)
+![Рис. 1.1](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/1.1.jpg?raw=true)
 
 Рисунок 1.1
 
 2.Чтобы убедится, что установка прошла успешно, запускаем среду разработки Qt Creator и в разделе Примеры находим проект
 Calculator Form Example.
 
-![Рис. 1](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.1.3.jpg?raw=true)
+![Рис. 1](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.1.3.jpg?raw=true)
 
 3.Изучаем краткую документацию по нему, а так же выбираем и настроиваем комплект сборки. Выбираем версию под Desktop, после чего нажимаем по кнопке Редактор.
 
-![Рис. 2](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.1.4.jpg?raw=true)
+![Рис. 2](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.1.4.jpg?raw=true)
 
 Рисунок 2.
 
 4.На боковой панели в разделе Проекты в каталоге Формы открываем главную форму проекта и заменяем текст "Input 1", "Input 2", "Output" на "Ввод 1", "Ввод 2" и "Вывод" соответственно. 
 Для этого щёлкаем по нужному компоненту на форме и в окне Редактор свойств меняем значение свойства text.
 
-![Рис. 3](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.1.5.jpg?raw=true)
+![Рис. 3](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.1.5.jpg?raw=true)
 
 Рисунок 3.
 
@@ -101,19 +101,19 @@ Calculator Form Example.
 
 1. Создаём консольное приложение без Qt
 
-![Рис. 4](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.1.jpg?raw=true)
+![Рис. 4](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.1.jpg?raw=true)
 
 Рисунок 4.
 
 Выбираем систему сборки
 
-![Рис. 5](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.1.2.jpg?raw=true)
+![Рис. 5](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.1.2.jpg?raw=true)
 
 Рисунок 5.
 
 Выбираем комплект 
 
-![Рис. 6](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.1.3.jpg?raw=true)
+![Рис. 6](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.1.3.jpg?raw=true)
 
 Рисунок 6.
 
@@ -121,7 +121,7 @@ Calculator Form Example.
 
 Замените содержимое файла main.cpp на 
 
-![Рис. 8](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.2.1.jpg?raw=true)
+![Рис. 8](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.2.1.jpg?raw=true)
 
 Рисунок 8.
 
@@ -129,7 +129,7 @@ Calculator Form Example.
 
 4.Устанавливаем точки останова на 6, 7, 8 строках
 
-![Рис. 9](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.4.jpg?raw=true)
+![Рис. 9](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.4.jpg?raw=true)
 
 Рисунок 9.
 
@@ -137,19 +137,19 @@ Calculator Form Example.
 
 В 6 строке
 
-![Рис. 10](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.6-6.jpg?raw=true)
+![Рис. 10](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.6-6.jpg?raw=true)
 
 Рисунок 10.
 
 В 7 строке
 
-![Рис. 11](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.6-7.jpg?raw=true)
+![Рис. 11](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.6-7.jpg?raw=true)
 
 Рисунок 11.
 
 В 8 строке
 
-![Рис. 12](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.3.6-8.jpg?raw=true)
+![Рис. 12](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.3.6-8.jpg?raw=true)
 
 Рисунок 12.
 
@@ -157,7 +157,7 @@ Calculator Form Example.
 
 Для уже существующего репозитория обновляем файл .gitignore, добавляя туда новые строки
 
-![Рис. 13](https://github.com/jojormani/Programming/tree/main/Lab/04/Image/4.4.jpg?raw=true)
+![Рис. 13](https://github.com/jojormani/Programming/blob/main/Lab/04/Image/4.4.jpg?raw=true)
 
 Рисунок 13.
 
